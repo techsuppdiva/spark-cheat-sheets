@@ -1,2 +1,2 @@
 # spark-cheat-sheets
-Versioned Spark Tuning Cheet-sheets for Enterprise System Admins looking to get into Spark.
+Versioned Spark Tuning Cheat-sheets for Enterprise System Admins looking to get into Spark.
